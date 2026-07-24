@@ -1,29 +1,72 @@
 ```text
-lllccc::::::ccccc:::ccclllllccllllcllllllllllccccclcc:::;,;:;,;;,;;;;;;:clllcccccc:::cccloooooolllloddxdk000OkkkxdkOOO0XXK0KNWWWWWWWWNWWWWMWNXNWMMWWMMMMMMMMMMMMMMMMK0WMMMMMWWWWWWWWWWWWWWWWWWWWWWWWWMMM    dan@bui ---------------------------------------------------------------------
-looollllccc::::cc::ccccclllllllllcclollc::cclccloolllllc::ll:::;,;;,,,;::cclcccccc:ccccccccclolccllllllldkxxxddlccoolldkOkxO0KXNNNXXK0XWWWWWNNNWMWNWMMMMWWWMMMMMMMMMKONMMMMMMWWWWWWWWWWWWWWWWWWWWWWWWWWW    . OS: ....................................... Ubuntu, macOS, Linux
-clllcccclllllc:clccloolllllllollllcdxlccccccllllolllllccloolooll:;;;;,,:::loc::;;;;:::cccccccllccoooooooolccc;::;;:;:clolllodxkkxkOOxxk0XXKXNNNNNNNWWWWWNKXWMMMMMMMMKkXMMMMMMMMMMMMWWWWWWWWWWWWWWWWWWWWW    . Role: ..................................... Senior Software Developer
-cllcllccolclooooollloooxxoclllcccccxkollcclllccclccccloooolcllloolcc:;,:c:cll:;;;:::;::::cccccclclooooccc::,',,,,,,,;::::::ccc:;:lolclodkOxkKXK0O0XNNXKXXKKWWWWWWWWW0xKMMMMMMMMMMMMMMWWWWWWNNXNWWWWWWWWW    . Location: ................................. Ho Chi Minh City, Vietnam
-lolclddlllllooolc:cccccldxdolcclcc:oxollccllcccclllllllcclllllloooollccclcclllcccc:;;;::::::;:cc::lc::cc:;'''.....',,,,,;:;,'',,;::::cloooodxxk0xdO0kdxkxO0NWWWWWWWWKdOWWMMMMMMMMMMMMWWWWWNXKKXWWWWWWWWW    . Ecosystem: ................................ Flutter, Godot, Node.js, Docker
-llllclllllllcclllcccllllcoddolllccclollllccclllcoolllc::lllooollcloooooolllllllolloc;;;;:;;;;;;;;:;;;::,'............'',,,,''',,,,;::cclllooddoddxOOdddoox0KXNXKXWWN0xkNWWWWWWWWMMMWWWWWWWWWWWWWWWWWWWWW    . Editor: ................................... VS Code, Android Studio
-cclllllllccllllloollooc:cllodl:cccclllolclllloollllcc:;;cllllollllllllllloolclloooollc;;;:;;;,,,::',;;'...............''...'''''',,,;;:::::ccllooddoooooodkxxxkxONNXKxkNWWWWWWWWWWWWWWMWWWWWWWWWWWWWWWWW
-lllccccclc:clllllololclllccloolclcc:ccclcccclllllllcclc:;cooolllllcclccloodooolooolloollcllc:;;,,'.','........................''''''''',,,,;;;:cclooollooolloooooxxOOdkNWWWWWWWWWWWWWWWWWWWWWNWWWWWWWWWW    . Languages.Programming: .................... Dart, C#, JavaScript, PHP, Pine Script
-cclccccllcc:cllldoclllllc:cllllcccccc::locccllllllloll:ccclllllolccllloollllolllllodolooollc;,'''...'............................'.'....''',,,;:cllllllooolcccc:colldokXXXNNXNNWWNNWWWWWWWWNKKNNNNNNNWWW    . Languages.Infrastructure: ................. Docker, Nginx, PM2, Composer
-llcccllccc:::coodkdlcllooldxl:clc:cccc:colcllllllllollc:cclllllllllollolcllloolcclooddooolc;'..........................................''''',,;;;:cloolooolc:ccclllclloxxOK0000KNXXXKXXXXXXXKO0XXKKK000O    . Languages.Real: ........................... Vietnamese (Native), English
-clolcllccc:c:cllclddlccloooollcllllccccclccllccclllllllcclllllllooollclolllloollclooooddl:,'..........................................''....'',,,;;:ccllolllccclccllllllodxxxxdxkkkkkxxdddxdxO0K0Okdlccc
-c:ooccccll:::llc::cooclclooollccllcc:clllllllc::clcccllllcccodddoccccllllcclllllllolodlc:;,'..............................................'''''',;;;:cclollollclllllclooooodddooodoodddoolllloolloxolc;c    . Interests.Trading: ........................ Algorithmic Trading, SMC, Price Action
-:clllc:cll:;:llccccclllcllllcll::llcclllclollccclllccc::cccloololc::cccccccccccclllllll:,'..................................................''''',;;:cllollolloollllloooooooooooooollllldocccllllloool::    . Interests.Tech: ........................... AI Autonomous Agents, Game Dev, Automation
-::::llcllc::cllcc:::cllcoollclllloolccllc:clc:ccclllcccc:cooc:cclccclc:ccccclccclc:col:,'..............',,,,'....................................'',;:cloolloodolllllllloooloooollooolllolccclllllllllcc
-llc:collcccccclolcccccloddolcccccloolllll:cllc::ccccccllool:::cllclccccccc:cc::cc::cll;,'.............,:lllc:,'.........................''........',;ccclllclolllllllllloodolollcllllloollllllllllclolll    - Projects & Platforms ------------------------------------------------------
-lolccolcccccllloollllloodddolcc::cclllollclllc:::cccclloollcccclolloolcccc::::::::::::,'...........',;loddddolc;;,''''.........'''..'',;::;,......';cclllllllccllccclllllloolcccccccllcllclolllolllodoll    . Classifieds Platform: ..................... choon.vn
-oolcclllccllllolllllllllloooolc::ccclllllloollolcclooooolclolc:ccclllc;;:::;;;;;;;;;;;,............,:lddxxxxddolccc:;;;;,,,'',;;;;;:::cllool:'....';clloolllllllollllllllcllccclccllllclolloollllooooolo    . Market Data Scanner: ...................... bazaroa.com
-lccccclllcclllllccllllllllodoolc;:cccllloolodoolcclooololccllccccclc::::;;;;;;;:;,,,;;,...........':codxxxxxxdddolllccccc::::::::cclllooooddoc'...';coolooclooloddllllodool::::::clcllcclllllccclloooolo
-c::clclllcccc:cl:;cooloolccdxoooc:looooolllcloolcloolllllccllllollllccc:::ccc:::;,',:c;'.........',cooddxxxxxddddolllllllcllllcccllooodddooddo:'..';clllllccllooooloolodoloc;:ccc::ccllccccl::cclcllccll    - Contact -------------------------------------------------------------------
-clllccloolllllllllcclolclolldxddoccllloolccccclllollooolcccclcllllcccclllllolccccccc:c:,.........,:lddddddddddooooolllllllllllllllloooodddodddl;..';::colcccclooododolllllllccllc:cclllccllcccccccccclll    . Email: .................................... your.email@domain.com
-cclolllloollllolooccloc:cc:cddooollccloooddolloooolllddoolcccclcclllllllolcllllolcc:clc,........';codddddoooooooolllllllllllllllllloooooddddddoc'',:llllllllllooooddollcloooollllllcccccllccccllcccclccc    . GitHub: ................................... [https://github.com/buidan](https://github.com/buidan)
-ooodollolllllcclol:colloddoodlclloolcldolclddllcclccclolccc:cllllolloloolcccllodl;',clc;'.....',;:loddddooooooooollllllllllllllllllooooodddddddl;',cloooloooolllloooollllloollcccclcccccllclccllccc::;;;    . Location: ................................. Ho Chi Minh City, VN
-looolclllllolllllllooloddddooooolloooddlcccloolccc:clollccccllcccccoollolcllllllc:;:lcc:,'..'',;:loooooooooooddoooooooollllllllllloodddddodooddo:';clllccllllolclllllloolcccc:cclllc:ccclcllclollc:;;:::
-::::c::clllllooooooollloolllllodooolodolcccc:lolcc:cloooocllccccc:;cooollolccllooollllol:''''';clooooolloodddddddddddddoooooollllooddddddxxxddoo:,:lcllcclllloloooooloololllcccccllllooollllloooll:;;;;;    - GitHub Stats --------------------------------------------------------------
-;;cllllccllllllcccllcclc:clc::cccclooollllc::clolccllcloolddlllolc:clolcclloollloolccldxd:,'',cloooolloooolcccccllllooooooooooooollloooooooddddoc;cllllllllloooooddollllllooooollloolloollooodllol::c;;;    . Repos: .... [Your Repos] | Stars: ......... [Your Stars]
-cccclllllcccccccccccclooolcc::c::::odocllcllllloollccc::cccccoool:;;:cc::;;:lool:cclloc:clc;,;looooooollc:;,,''''',;;:cclllllllccc::;;;,,,;;cloolcccllllooollcloooolcclllllllllllllllooooollooollclc:ccc    . Commits: .. [Your Commits] | Followers: ..... [Your Followers]
-ol:cc:::ccc:ccc:cllcclllllcllc:::::looolccccllloolcllcccccccodocl:,,;;::;;;;,:loolcclc;:::c:;:ooooooolc:;;,,,'''....'',;;::::::;;,,'....'',,;:loocc:clolooolcclldolllllllllllllooollloooollolclolccllcoo    -----------------------------------------------------------------------------
-c::c:,,,;;;;;:c::cccclc::ccllcccclllllllccoocllccc:cclccc:lddoc;;;:;,,;:
+llc::cc::clllcclllllllccc::;:;,;:;;cclccc::cloolllodxdk0OkkkO0XK0KWWWNWMMWNWMMMMMMMMK0WMMWWWWWWWWWWMM  dan@bui ---------------------------------------------
+lollcc::cclllllcclolclllc:l::;,;,:clccccccllcclllldkxxdlcodkOk0KXNXK0XWWNWMMWNWMMMMMKONMMMWWWWWWWWWWW  . OS: ....................... Ubuntu, macOS, Linux
+clclllcclllllllodxlclllllool;;,::l:;;::cccllooolcc;:;:clllodxkOxk0KXNWNKXWMMMMMMMMKkXMMMMMMMMWWWWWWWW  . Role: ..................... Senior Software Developer
+cllcloloooollooxoclcxolcllool;,;:l;;::::cllooc::,',,,;:::;:loclodkOXK0XNXKKWWWWWWW0xKMMMMMMMMMMWWWWWW  . Location: ................. Ho Chi Minh City, Vietnam
+lolldllllooc::lcxdlcxolcllllllcclllcc;:::;:c::;'....',,;,,;:cloddxk0xO0kxkO0NWWWWWKdOWWMMMMMMMMMMWWWW  . Ecosystem: ................ Flutter, Godot, Node, Docker
+llclllcclllclllcodllolclcoolllloooloc;;;;;;;,'........',,,,;:ccllloddodkOdoox0XKXWN0xkNWWWWMMMWWWWWWW  . Editor: ................... VS Code, Android Studio
+cclllcclloolo:cldl:clolcloolcc;cllllllooolc;;,'...........''',,;:::clodoooooodxkxONXKxkNWWWWWWWWWWWWW
+llccl:cllllolllccloclcccclllc:cooolclooloolc;,'................'',,;:cloooloooloooxxOOdkNWWWWWWWWWWWW  . Languages.Programming: .... Dart, C#, JS, PHP, PineScript
+cclllc:clldclll:cclccc:locllol:cclllcloollloc;'.................''',;:clllooolccc:colldokXXXNNWWWWNKK  . Languages.Infrastructure: . Docker, Nginx, PM2, Composer
+llccl:::oodkldldxl:c::collloll:cclllolllloodlc'..................'',,;:cloolc:ccclllclloxxOK00KNXXXXXXXXKO0  . Languages.Real: ........... Vietnamese, English
+cloclc:cllddcloollllclllccllllcllloollolloodl;'.................''',,;:cclllcclccllllllodxxxxkxxxdxdxO0Odlc
+c:ocll:l::ocolooll::clllccoddoclllclllolodlc;'....................'',;:clollclllcloooodddoodddoollllooloc;  . Interests.Trading: ........ Algo Trading, SMC, Price Action
+:cll:l:lccllllll::lclolcc::colc:::::clllll:,'......................'',;:clolloolllllooooooooooolllldoccllo:  . Interests.Tech: ........... Autonomous AI, Game Dev, Automation
+::lllc:clcc::lcloclloclc::cllc:oc:ccclc:lo;''......',,'..............',;clooololllllooolooooloolllolcllllc
+llcollccloccclddlccolll:lc::ccool::clccc:cl;'.....',clc,'..............',;ccllclllllloodolollcllllooolllll
+lololclloolllodddlc:cllllc::cloocclolcc::::;....',coddolc;,........,;:;..';clllllcclllllloolccccllcclolodol  - Projects & Platforms ------------------------------
+oolcllllollllloooc:cllloolcolc:cll;;:;;;;;;'...',ldxxddolcc:;,,,,,:::cl:'';cloollllollllcllccllcloolloooool  . Classifieds Platform: ..... choon.vn
+lccccllccllllodoc:cllooolloocclllcc:::;;;;;...'coxxxxddolllccccc:::clooddoc';cooloclooddllodol::::cllcllllo  . Market Data Scanner: ...... bazaroa.com
+c:clllcc:l:coolcdoclooolcloollllolcc:::;',c;'.,codxxxxddollllllcllloooddodo:';clllclooooloolodlc;:cc:cclccl
+cllcoolllllcloclxdocllooccllollcccllooccccc:,',lddddddooolllllllllooodddddl;..;::colclooodollllcclc:cclclcc  - Contact -------------------------------------------
+ccloolololoocl:cdooollooddoooolcclcllllollc:,';codddooooolllllllllooodddddoc',:llloooddollcloooollllcccclcc  . Email: .................... your.email@domain.com
+ooololclol:colodoclldldlclccloc:lloloolcloc;'',;loddooooollllllllloodddddddl',clooollooolllloollcccclcccclc  . GitHub: ................... [https://github.com/buidan](https://github.com/buidan)
+looolllolllloloddoollodlccloc:cloccloollclc:;'',cloooooddooolllllloodddodod:';cllclllolclllllooccc:cclc:ccl  . Location: ................. Ho Chi Minh City, VN
+:::cllloooooolllodolodlc:loc:coocllcccooolll:'''cloolooddddddoooollooddddxdd:;:lcclllolooooololllccclllooll
+;clllccclclc:c::cloollc:clcclddolc:clcloolcxd;',cloolooolcclloooooollooooooddocclllllloooooddollllloooolloo  - GitHub Stats --------------------------------------
+cclllcccccccloc::odoclllloc::ccoo:;:c:;:loc::;,;looooolc;''',;cclllcc:;,;,;cloolcclllloolcloooolcclllllllllo  . Repos: .. [Your Repos]    | Stars: ..... [Your Stars]
+ol:c:cc:clcllc::loocclllccccodcl;,;;;,;loc;::;:oooooolc;,,''..';::;;,'..',;:loocclolooclldollllllooollooool  . Commits: [Your Commits]  | Followers: . [Your Followers]
+c:c,;,;::cclcclllllocco:lc:cclcldd;;;,;;:cllc;;coooolcc;,'''.''';;;;,''..',;:cooc:llcllooclollllolllcdxdool  -----------------------------------------------------
+ccl;,;,;;:c:c:clc:clccc:cccccccll;;;;,;,;cloc;';coooolc;,'...'',,;;;,'....'',:coocccccllccclllcccccllc:clod
+lllc;:::cc::ccc:clcccldo:;cc:;;:c:',,,;,;:clo;',::coooooolc;,,;;:clllc;,'',;;:clooolc;:clcccllol:::cccllol
+oolcccclc::::clc;clcllool:;:c::clc;,',;c:;:clcclcccllooodddolccclloddolllc;;:cloddddl:::::::cccccoollcllc:c
+cc::c:lc:::::;:c:clclllc::::cclccco;;,::lc;:cccooddocclllooodddddxkkkxxddddddddddddollcccclcclllccodlcclool
+:;,,;::::;,;:::c:c::cc:c:lc::cclll::'::;:;,,;cllloddlcllllooooooodkkOOOOkxdooddddxdddddoollolcc::cccclolll
+:c;,,;,''';::cc::::;:cooc:cllcclcc;;;cc::;,,;::cc:::llclllcccccldxxdxxxxkkxxkdlcloodddooooolcccccccccclccol
+,'';;;,'',;ccccccloc::cc;;;::lcccooclooc:,'',;;;,;::::cccclcccccccccccccccc:;;;:llccccccllccllc;:cclllloool
+,',;;:c:,,;;;cclllodl:::c;;c:;:cc:cclllooc:;::cclolc:clcclcccccccc:::::::;;;:;;;,'''',,;,,,:clc:;::ccclllooc
+,,;cl:lc::ccc::cccccc:::ll;;l;;ccc;:;;clllc:cclllllc;;:lcccccccc:::::::;;;;::ccc:;;,,,,;;:clllllc:::::ccllll
+'';cloocl:::c:;:lo;::ll,;cldl:cccc::clc::clllc;:ccc::ccc:;,;cccccccc:::::;;;;;;::cccccc:ccccclloolcccc::cccc
+'',;:cl;,,;ccc::lc;,;:looc;;clcccccccllc:clllllloollloolccloddocc:::cc:::::::::;;,,,,,,,,,,;;;;::ccccclc:c::
+,';;,cooc;;:cc:;l,',;clcccc::ccclllllllc;:c:cllc:clccllllloollloolccloddocc:::cc:::::::::;;,,,,,,,,,,;;;,;;
+,',;looc;,;::::cl,';:::::::::::cccccclc:;:cclccloo:;:ccc:cccloolllcc::::odol:::::::::::;;;;;;::::;;;;;;::::
+''''col;,,;;,,;:c:::::::c::cc:;:cc:cccllc:cllc::colc:;;;:ccccccc::cllloddddolc:;;;;::::;;;;:::c:::;;,,,,,;:
+...'colc,,,,,,;cccllccccccloolccc:c::c:ccllllc:::clccccc::c::;,;::::cccldxxxdodxdlc:;,;;;;;;;;;;::::ccc::::
+.'' 'col;,,,;;;clcc:;;;;::::::c:::::;;;:clolccllc:coxlcl:;;;,;;,,,;;ldollllllllllc::;;,''''',,,;;;:::::::::
+''''':ll;'',;;clcc:;;;;::::::c:::::;;;:clolccllc:coxlcl:;;;,;;,,,;;ldollllllllllc::;;,''''',,,;;;:::::::::
+',''':lc;,,',;;:clc::cc:::clollllc:cccodc;;;:;;:lll:,,:ldollcccccccccccc::;;;;,''....'',,,;;;;;;;::cc,,:::c
+''...;cc::;..',;;::cc:;clc:::lollcc::c:;llc:;,;;:clllcclddollccccccccccccc::::;;,''........'''',,,,;;:lcloc
+,'...;cc;,c;'',;;:cclccccllc:;,,;;:lccccc;;cccccldxdlllcc::::::::::::;;;;,,'''''......''',,;:cloodxol;,coc
+',...;cc,..',;;clccl:,;;,''';::::::;::cllll:;;clllclllolc:codxxdoolllc:::::::::::;;;;;;;,,,,''''''''',,,;;:
+....';c:'..',:c;;:::c::::::;,,,;clccc:;;:::ccclollolclc:cclloxkOkxxddolllcc:::::::::::;;;;;;,,,,,,,,,,,,;;
+.....,::,'',:ccc:cc:;,',,;:;;;::clcc::;:ccc:ccllllccccccok0KKOxxxdxkO0K0Odc::::::::::::::;;;;;;;;;;;;;:::
+'....'::,'';;;;:cc:;,',,,,,,.',;:;;;:::clloddl::clllokKNNKOkxxxxOKNWWWWWNKOdl:::::::::::::::::;;;::::::::
+.....':;'..',,,,;;::;;,;;::,,,;;;::;;::::clllolc::lx0NWNKOkxk0XNWWWWWWWWWWWNKkdlc:::::::;;;:::::::::::ccc
+.....':;..',,,,,:cc::cccc;,;;;,,;::::::c::lk0XWWNKOkO0KXWWMMWWWWWWWWWWWWNNXKOdl::;;;;;;;;::::::::::clood
+'....':,..';;,;,...';,;:::::cc:::;;;;,,;;:ccccldOXWMMWKkO0XWWMMMMMMMMWWWWWWWWWWNNXX0dc:;;;;;;;;;;:::clodk
+',:clol'..',,;:;'''''.,;;;;;,,;::::::;:::::okKNMMMMN0kKNWMMMMMMMMMMWWWWWWWWWWWWNNNNKOdlc:;,,,,,,;:coxkO
+colc:::...';;,,,,,;,'',;;,''',:;;:c:;:cokXWMMMMMMNXNWMMMMMMMMMWWWWWWWWWWWWWWWWWNNNNXXKkdlc:;;:lodxxkOkk
+;'.......',,,,,'','.'''''....,,',:;;lkXWWWMMMMMMMMMMMMMMMMMWWWWWWWWWWWWWWWWWWWWWWWWNNNNNXKOkxxkOOOO00Okk
+ ........'::,.......',,''''','.''''.':d0NWWWWWWWWWWWWWWWWMWWMWWWWWWWWWWWWWWWWWWWWWWWWNNNNNNXXKK0Okxdolcc
+ ......',;c:'....',,,,'........',;:cxKWWWWWWWWWWWWWNNNNNNWWWWWWWWWWWWWWWWWWWWWWWWWWWWWNNX0Oxdolc::;;::::
+ .....,clccc::,'',,,,,'........,oOKNNWWWWNWWWWWWWNNNNNNNXNNWWWWNNNWWWWWWWWWWWWWWWWWWNXK00Okxdolccccccccc
+ .....;clodoc;''''''...',:;'........cOXNNNNNNNNWWWWWWNNNNNNNNNNNNWNNNNNNNNWWWWWNNXK0Okxdoollllcccccccccc
+ ....'lolllc:c::,'....'''.',.........lOOkxxxxxxxxkkOO0XXNNNNNNNNNNNNNNNNNXNNNNXK0Oxdolllccccllcccccccccc
+;;;;:ccll:;;;:::::::::ccc:;,',;;:cc:ccc;.,:clllollllllllccloodkO0XXXXNNNXXNNNNXKOkdollcclllllccccccccll
+llc::::c:,,::;::c:;,,::ccclllllllccclcc::;coooolllllcccccccc:::::::::::ldkOOxolc::;::cccccccccccccccccc
+cccc:clc:::cc:;;,;;;;;::;cdxoll::cccc:;::coooollllcccccc:::::::::::::::::cc:;:ccc:;;;::cccccccccccccccc
+ccccclc::ccccll:,'',,,,;;cllol:;::c:c::;;ldollllcccccc::::::::::::::;;;;:::;;;:cc::;;;:cccccccccccccccc
+,'',::;:c:cllcclc:::;;;;:llodl::::cccc:cloollllccccc:::::::::::::::;;;;;;:::;,;:c::;;;;::ccc:ccccccccccc
+,,'.';;::;;::ccccccc:;::clooolccc:ccc::coollcccccc:::::::::::;;;:::;;;;;;:;;:;,;:::;;;;;:cc::ccccccccccc
+.,,'';:;;;;;;:c:;;;:cc::clllcc:cclllc:;:olcccccccc::::::::::::;;;;;;;;;;;:;;:;,,;::;;;;;;:cc:::ccccccccc
+,'',,;::;;:;;,,'',,;:c:;;:::;;:cllc::;;cllcccccc:::::;;;;;;;:;;;;:;;;;;;;;;,;;,',::;;;;;;::::::::cccccc
